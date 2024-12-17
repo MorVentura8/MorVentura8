@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mor Ventura</h1>
-<h3 align="center">Computer science student</h3>
+<h1 align="center">Hi 👋, I'm Mor Ventura from Tel Aviv, Israel.</h1>
+<h3 align="center">I am a third-year Computer Science student, passionate about creating innovative solutions and constantly learning new technologies. Coding isn't just what I do; it's how I express my creativity and solve real-world problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morventura8&label=Profile%20views&color=0e75b6&style=flat" alt="morventura8" /> </p>
 
